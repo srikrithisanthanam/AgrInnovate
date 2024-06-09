@@ -2,4 +2,4 @@ AgrInnovate is an innovative web application designed to assist farmers in makin
 recommends the optimal fertilizer to protect the crops by the use of Machine learning model(Random Forest Classifier)
 
 
- 
+ file:///C:/Users/srisa/OneDrive/Pictures/Screenshots/Screenshot%20(66).png
